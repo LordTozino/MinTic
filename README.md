@@ -1,0 +1,2 @@
+# MinTic
+proyecto MinTic
